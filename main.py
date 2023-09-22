@@ -4,12 +4,21 @@ import ffmpeg
 import pyloudnorm as pyln
 import soundfile as sf
 import moviepy.editor as mp
+import tkinter as tk
+from tkinter import filedialog
 
 # setting a field that points to ffmpeg (a library)
 os.environ["IMAGEIO_FFMPEG_EXE"] = "/opt/homebrew/bin/ffmpeg"
 
 BASE_PATH = '/Users/jeremyzgross/Downloads/BLACKSPOT QC/TEST VIDEOS/'
 mp3Folder = '/Users/jeremyzgross/Downloads/BLACKSPOT QC/EXPORTED MP3s/'
+
+# Create Good Videos Folder
+# Create Bad Videos folder
+# Identify folder for videos to be tested
+
+
+
 
 #converts video files to sound only files (mp3s)
 
@@ -105,6 +114,7 @@ def measure_loudness():
                 shutil.rmtree(file_path)
         except Exception as e:
             print('Failed to delete %s. Reason: %s' % (file_path, e))
+
 
     # # Move files back into TEST VIDEO folder for testing
     # Good_videos_source = os.path.join(BASE_PATH, 'GOOD VIDEOS')

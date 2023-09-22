@@ -1,0 +1,84 @@
+('/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+ 'project/build/your_script/your_script',
+ True,
+ False,
+ True,
+ None,
+ None,
+ False,
+ False,
+ None,
+ True,
+ True,
+ False,
+ 'arm64',
+ None,
+ None,
+ '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+ 'project/build/your_script/your_script.pkg',
+ [('PYZ-00.pyz',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/build/your_script/PYZ-00.pyz',
+   'PYZ'),
+  ('lib-dynload/_struct.cpython-310-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_struct.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-310-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/zlib.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/build/your_script/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/build/your_script/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/build/your_script/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/build/your_script/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('Loudness_Checker_Script',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/Loudness_Checker_Script.py',
+   'PYSOURCE')],
+ [],
+ False,
+ False,
+ 1695406335,
+ [('run',
+   '/Users/jeremyzgross/Desktop/PycharmProjects/New qc '
+   'project/venv/lib/python3.10/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
+   'EXECUTABLE')])
